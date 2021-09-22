@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\HolaWeb23\\MisionTIC-2021-Ciclo3-WF-main\\MisionTIC-2021-Ciclo3-WF-main\\HolaWeb.App.Frontend\\HolaWeb.App.Frontend.csproj": {}
+    "C:\\HolaWeb\\HolaWeb23\\HolaWeb.App.Frontend\\HolaWeb.App.Frontend.csproj": {}
   },
   "projects": {
-    "C:\\HolaWeb23\\MisionTIC-2021-Ciclo3-WF-main\\MisionTIC-2021-Ciclo3-WF-main\\HolaWeb.App.Dominio\\HolaWeb.App.Dominio.csproj": {
+    "C:\\HolaWeb\\HolaWeb23\\HolaWeb.App.Dominio\\HolaWeb.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\HolaWeb23\\MisionTIC-2021-Ciclo3-WF-main\\MisionTIC-2021-Ciclo3-WF-main\\HolaWeb.App.Dominio\\HolaWeb.App.Dominio.csproj",
+        "projectUniqueName": "C:\\HolaWeb\\HolaWeb23\\HolaWeb.App.Dominio\\HolaWeb.App.Dominio.csproj",
         "projectName": "HolaWeb.App.Dominio",
-        "projectPath": "C:\\HolaWeb23\\MisionTIC-2021-Ciclo3-WF-main\\MisionTIC-2021-Ciclo3-WF-main\\HolaWeb.App.Dominio\\HolaWeb.App.Dominio.csproj",
-        "packagesPath": "C:\\Users\\samur\\.nuget\\packages\\",
-        "outputPath": "C:\\HolaWeb23\\MisionTIC-2021-Ciclo3-WF-main\\MisionTIC-2021-Ciclo3-WF-main\\HolaWeb.App.Dominio\\obj\\",
+        "projectPath": "C:\\HolaWeb\\HolaWeb23\\HolaWeb.App.Dominio\\HolaWeb.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\Yo\\.nuget\\packages\\",
+        "outputPath": "C:\\HolaWeb\\HolaWeb23\\HolaWeb.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\samur\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+          "C:\\Users\\Yo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -64,39 +57,32 @@
         }
       }
     },
-    "C:\\HolaWeb23\\MisionTIC-2021-Ciclo3-WF-main\\MisionTIC-2021-Ciclo3-WF-main\\HolaWeb.App.Frontend\\HolaWeb.App.Frontend.csproj": {
+    "C:\\HolaWeb\\HolaWeb23\\HolaWeb.App.Frontend\\HolaWeb.App.Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\HolaWeb23\\MisionTIC-2021-Ciclo3-WF-main\\MisionTIC-2021-Ciclo3-WF-main\\HolaWeb.App.Frontend\\HolaWeb.App.Frontend.csproj",
+        "projectUniqueName": "C:\\HolaWeb\\HolaWeb23\\HolaWeb.App.Frontend\\HolaWeb.App.Frontend.csproj",
         "projectName": "HolaWeb.App.Frontend",
-        "projectPath": "C:\\HolaWeb23\\MisionTIC-2021-Ciclo3-WF-main\\MisionTIC-2021-Ciclo3-WF-main\\HolaWeb.App.Frontend\\HolaWeb.App.Frontend.csproj",
-        "packagesPath": "C:\\Users\\samur\\.nuget\\packages\\",
-        "outputPath": "C:\\HolaWeb23\\MisionTIC-2021-Ciclo3-WF-main\\MisionTIC-2021-Ciclo3-WF-main\\HolaWeb.App.Frontend\\obj\\",
+        "projectPath": "C:\\HolaWeb\\HolaWeb23\\HolaWeb.App.Frontend\\HolaWeb.App.Frontend.csproj",
+        "packagesPath": "C:\\Users\\Yo\\.nuget\\packages\\",
+        "outputPath": "C:\\HolaWeb\\HolaWeb23\\HolaWeb.App.Frontend\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\samur\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+          "C:\\Users\\Yo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\HolaWeb23\\MisionTIC-2021-Ciclo3-WF-main\\MisionTIC-2021-Ciclo3-WF-main\\HolaWeb.App.Dominio\\HolaWeb.App.Dominio.csproj": {
-                "projectPath": "C:\\HolaWeb23\\MisionTIC-2021-Ciclo3-WF-main\\MisionTIC-2021-Ciclo3-WF-main\\HolaWeb.App.Dominio\\HolaWeb.App.Dominio.csproj"
+              "C:\\HolaWeb\\HolaWeb23\\HolaWeb.App.Dominio\\HolaWeb.App.Dominio.csproj": {
+                "projectPath": "C:\\HolaWeb\\HolaWeb23\\HolaWeb.App.Dominio\\HolaWeb.App.Dominio.csproj"
               },
-              "C:\\HolaWeb23\\MisionTIC-2021-Ciclo3-WF-main\\MisionTIC-2021-Ciclo3-WF-main\\HolaWeb.App.Persistencia\\HolaWeb.App.Persistencia.csproj": {
-                "projectPath": "C:\\HolaWeb23\\MisionTIC-2021-Ciclo3-WF-main\\MisionTIC-2021-Ciclo3-WF-main\\HolaWeb.App.Persistencia\\HolaWeb.App.Persistencia.csproj"
+              "C:\\HolaWeb\\HolaWeb23\\HolaWeb.App.Persistencia\\HolaWeb.App.Persistencia.csproj": {
+                "projectPath": "C:\\HolaWeb\\HolaWeb23\\HolaWeb.App.Persistencia\\HolaWeb.App.Persistencia.csproj"
               }
             }
           }
@@ -131,36 +117,29 @@
         }
       }
     },
-    "C:\\HolaWeb23\\MisionTIC-2021-Ciclo3-WF-main\\MisionTIC-2021-Ciclo3-WF-main\\HolaWeb.App.Persistencia\\HolaWeb.App.Persistencia.csproj": {
+    "C:\\HolaWeb\\HolaWeb23\\HolaWeb.App.Persistencia\\HolaWeb.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\HolaWeb23\\MisionTIC-2021-Ciclo3-WF-main\\MisionTIC-2021-Ciclo3-WF-main\\HolaWeb.App.Persistencia\\HolaWeb.App.Persistencia.csproj",
+        "projectUniqueName": "C:\\HolaWeb\\HolaWeb23\\HolaWeb.App.Persistencia\\HolaWeb.App.Persistencia.csproj",
         "projectName": "HolaWeb.App.Persistencia",
-        "projectPath": "C:\\HolaWeb23\\MisionTIC-2021-Ciclo3-WF-main\\MisionTIC-2021-Ciclo3-WF-main\\HolaWeb.App.Persistencia\\HolaWeb.App.Persistencia.csproj",
-        "packagesPath": "C:\\Users\\samur\\.nuget\\packages\\",
-        "outputPath": "C:\\HolaWeb23\\MisionTIC-2021-Ciclo3-WF-main\\MisionTIC-2021-Ciclo3-WF-main\\HolaWeb.App.Persistencia\\obj\\",
+        "projectPath": "C:\\HolaWeb\\HolaWeb23\\HolaWeb.App.Persistencia\\HolaWeb.App.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\Yo\\.nuget\\packages\\",
+        "outputPath": "C:\\HolaWeb\\HolaWeb23\\HolaWeb.App.Persistencia\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\samur\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+          "C:\\Users\\Yo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\HolaWeb23\\MisionTIC-2021-Ciclo3-WF-main\\MisionTIC-2021-Ciclo3-WF-main\\HolaWeb.App.Dominio\\HolaWeb.App.Dominio.csproj": {
-                "projectPath": "C:\\HolaWeb23\\MisionTIC-2021-Ciclo3-WF-main\\MisionTIC-2021-Ciclo3-WF-main\\HolaWeb.App.Dominio\\HolaWeb.App.Dominio.csproj"
+              "C:\\HolaWeb\\HolaWeb23\\HolaWeb.App.Dominio\\HolaWeb.App.Dominio.csproj": {
+                "projectPath": "C:\\HolaWeb\\HolaWeb23\\HolaWeb.App.Dominio\\HolaWeb.App.Dominio.csproj"
               }
             }
           }
